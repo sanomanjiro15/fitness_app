@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "user_id": "0f53a9ea-be0a-42cb-b6a5-a5cdb9b617a0",
+    "exercise_id": "pushup",
+    "exercise_name": "Push-Ups",
+    "duration_minutes": 0.03,
+    "calories_burned": 0.21,
+    "date": "2025-03-11"
+  },
+  {
+    "id": "2",
+    "user_id": "0f53a9ea-be0a-42cb-b6a5-a5cdb9b617a0",
+    "exercise_id": "pushup",
+    "exercise_name": "Push-Ups",
+    "duration_minutes": 0.18,
+    "calories_burned": 1.43,
+    "date": "2025-03-11"
+  }
+]
